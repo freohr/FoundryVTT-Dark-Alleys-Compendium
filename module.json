@@ -84,10 +84,10 @@
       "type": "Item"
     },
     {
-      "name": "dark-alleys-occultist-spells",
-      "label": "Dark Alleys Occultist Spells",
+      "name": "dark-alleys-occultist-features",
+      "label": "Dark Alleys Occultist Features",
       "system": "archmage",
-      "path": "./packs/dark-alleys-occultist-spells.db",
+      "path": "./packs/dark-alleys-occultist-features.db",
       "type": "Item"
     }
   ],
