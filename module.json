@@ -89,6 +89,13 @@
       "system": "archmage",
       "path": "./packs/dark-alleys-occultist-spells.db",
       "type": "Item"
+    },
+    {
+      "name": "dark-alleys-races",
+      "label": "Dark Alleys Race Powers",
+      "system": "archmage",
+      "path": "./packs/dark-alleys-races.db",
+      "type": "Item"
     }
   ],
   "manifest": "https://github.com/mk572/FoundryVTT-Dark-Alleys-Compendium/releases/download/latest/module.json",
